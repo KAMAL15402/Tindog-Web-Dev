@@ -22,9 +22,18 @@ label.logo{
 
 nav ul{
     float: right;
-    margin-top:  20px; ;s
+    margin:  20px  ; 
+
 }
 
 nav ul li{
+    
     display: inline-block;
+    line-height: 50px;
+    margin: 0 10px;
 }
+
+nav ul li a{
+    color: white;
+}
+
