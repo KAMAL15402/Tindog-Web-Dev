@@ -35,5 +35,41 @@ nav ul li{
 
 nav ul li a{
     color: white;
+    text-transform: uppercase;
+    font-size: 17px;
+    text-decoration: none;
+    padding: 7px 13px;
+    border-radius: 3px;
+    
 }
+
+a.active, a.hover{
+
+}
+
+.checkbtn{
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
